@@ -1,0 +1,1 @@
+{"minDifficulty":1,"maxDifficulty":15,"minSolveCount":500,"maxSolveCount":1000,"logical":"and","tags":["dp","math"]}
